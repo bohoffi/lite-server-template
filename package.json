@@ -1,0 +1,26 @@
+{
+  "name": "lite-server-template",
+  "version": "1.0.0",
+  "description": "Providing a project template using lite-server for real-time development.",
+  "scripts": {
+    "lite": "lite-server --port 10001",
+    "start": "npm run lite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bohoffi/lite-server-template.git"
+  },
+  "keywords": [
+    "lite-server",
+    "real-time"
+  ],
+  "author": "bohoffi",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/bohoffi/lite-server-template/issues"
+  },
+  "homepage": "https://github.com/bohoffi/lite-server-template#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
